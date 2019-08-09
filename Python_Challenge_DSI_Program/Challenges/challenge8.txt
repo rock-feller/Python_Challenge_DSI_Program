@@ -1,0 +1,4 @@
+"""author = Rockefeller"""
+
+Bonus Statistics Question: You get a job in a new company that sells GPUs. Because of your top data science skills you are asked to improve the company website through which customers can buy a GPU. The old version of the website (version A) was not great and only 1% of people who visited the website actually bought a GPU. After 10% of all visitors to the website have gone through your version B (the rest having gone through the old version A), you calculate the conversion rate and find that version B now has a much better success rate, with 36% of all visitors buying a GPU. The CEO of your company is very impressed. She decides to challenge your data science skills even further by randomly picking a customer who bought a GPU at some point in the history of the company and asking what the probability is that they bought it through your version of the website. What is that probability?
+

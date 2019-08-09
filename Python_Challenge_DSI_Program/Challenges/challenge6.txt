@@ -1,0 +1,6 @@
+"""author = Rockefeller""""
+
+
+If company X's revenues have grown exponentially for the last ten years, and X had revenues in 2016 and 2017 of $50B and $60B respectively, estimate company X's projected revenue in 2020 assuming the exponential growth continues.
+
+Briefly explain how you came to your answer.

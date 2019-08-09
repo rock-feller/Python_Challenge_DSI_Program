@@ -1,0 +1,4 @@
+"""author = Rockefeller""""
+
+
+James Bond has intercepted an English word that has been encrypted by using a Ceasar shift cipher. This means that every letter in the message is moved a fixed number of spaces along in the alphabet. For example, if the shift was one space then 'a' would become 'b', 'b' would become 'c' and so on. If the shift were 10 spaces then 'a' would become 'k' because 'k' is the 11th letter of the alphabet, etc.... Knowing that you are a data science expert James Bond asks you to decipher the word. By downloading a list of English words from the web (or some other clever way) help James by finding the correct shift and deciphering the intercepted word 'htslwfyzqfyntsx'. Write a Python code that finds the deciphered word?

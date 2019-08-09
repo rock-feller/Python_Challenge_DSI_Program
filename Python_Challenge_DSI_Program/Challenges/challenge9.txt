@@ -1,0 +1,5 @@
+"""author = Rockefeller"""
+
+Bonus Logic Question: You overhear two old friends, Victoria and Maria, challenging each other with mathematical puzzles. Victoria says "I am thinking of three integers, x, y and z. Their product is 36. What are x, y and z?" Maria immediately responds "That is impossible to answer". Victoria then says "OK, their sum is the same as my birthdate, which you know of course". Maria thinks much harder this time and then says "It is still impossible!". Finally Victoria replies "OK, OK, as a final clue I will tell you that the largest number is unique". Maria immediately replies "Now I know!". What are the numbers x,y,z that Victoria was thinking of?
+
+Explain how you get to the answer here, possibly add the python code showing the steps

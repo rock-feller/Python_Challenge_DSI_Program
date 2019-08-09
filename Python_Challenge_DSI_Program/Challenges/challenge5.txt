@@ -1,0 +1,11 @@
+"""author = Rockefeller""""
+
+
+1) By a theoretical calculation or by writing and running some code, find the probability of throwing a ’1’ followed by a ’2’ followed by a ’3’ when rolling a 6-sided dice three times (give your answer to 3 decimal places, e.g. 24.521%)?
+
+2)With reference to the dice problem in question above, is the probability of throwing three '1's in a row:
+      ==> more likely
+      ==> less likely
+      ==> equally likely 
+      
+as compared to your answer in 1?

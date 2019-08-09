@@ -1,0 +1,8 @@
+"""author = Rockefeller""""
+
+Consider the file image1.png
+
+Look at the function "mthDigit" above. 
+Given an integer, N, it should find the m-th digit of the number. E.g. for N = 24827 and m = 1, the output should be mthDigit(N, m) = 2. 
+The code inside the image is correct except for line 6. 
+Write just the corrected line out as your answer to make the function work properly.

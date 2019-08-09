@@ -1,0 +1,11 @@
+"""author = Rockefeller""""
+
+Consider the Python code below
+
+=========================
+                        !!
+hello = 'Hello'         !! 
+print (3*hello)         !!
+=========================
+
+What would be the output of the code above
